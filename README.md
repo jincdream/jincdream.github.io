@@ -18,5 +18,5 @@
 - 研究和开发前端工程工具（目前正基于FIS3开发前端工具）
 
 ## 社交
-- (微博)[http://weibo.com/275727449]
-- (知乎)[http://www.zhihu.com/people/cen-jin-chao]
+- [微博](http://weibo.com/275727449)
+- [知乎](http://www.zhihu.com/people/cen-jin-chao)
