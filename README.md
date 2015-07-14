@@ -24,6 +24,7 @@
 - CMS专题模板制作,列如:电脑网[海淘馆](http://best.pconline.com.cn/haitao/jp)
 - 六网的项目页面制作，主要参与了时尚网[医疗美容项目](http://plastic.pclady.com.cn/)部分页面、汽车网[车友会](http://club.pcauto.com.cn/)部分页面
 - 电脑网改版[无人机CMS项目](http://drone.pconline.com.cn/)
+- 等等
 
 ### 网速架构组
 
