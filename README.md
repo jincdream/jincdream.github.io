@@ -33,7 +33,7 @@
 主要是JS的维护
 
 - 六网文章页评论``JS``,例如:[电脑网文章终端页](http://mobile.pconline.com.cn/669/6693098.html)的[评论JS](http://js.3conline.com/pconline/common/js/cmt.js)
-- 准备上线的又一个[评论JS](http://js.3conline.com/js/common/modules/cmt.js) 这个是自己写的。
+- 上线的又一个[评论JS](http://js.3conline.com/js/common/modules/cmt.js) [聚乐淘](http://buy.pconline.com.cn/discount/549/)。
 - 等等
 
 ## 目前状况
