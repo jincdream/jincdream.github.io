@@ -34,7 +34,8 @@
 
 - 六网文章页评论``JS``,例如:[电脑网文章终端页](http://mobile.pconline.com.cn/669/6693098.html)的[评论JS](http://js.3conline.com/pconline/common/js/cmt.js)
 - 上线的又一个[评论JS](http://js.3conline.com/js/common/modules/cmt.js) [聚乐淘](http://buy.pconline.com.cn/discount/549/)。
-- pc-sub ，基于`fis3`的自动化工具编写。
+- 独立编写`pc-sub` ，基于`FIS3`的自动化工具编写。
+- `pcat`工具的编写，基于`FIS-MINI`（我自己抽离的FIS3的核心）实现前端组件化、自动部署、性能优化等功能。
 - 等等
 
 ## 目前状况
@@ -42,7 +43,24 @@
 - 六网PC端框架维护、公共组件维护
 - 研究和开发前端工程工具（目前正基于FIS3开发前端工具）
 
+## 其他
+- 在写专题的时候用Nodejs抽空写了个集实时刷新、编译css等功能的小工具。
+- 觉得平时填写工时系统很麻烦，就用Nodejs模拟登陆并通过JSON的格式来填写工时。
+- 每次打开TinyPNG网页压缩图片麻烦，写了个Nodejs小工具通过TinyApi一键压缩。
+- 在阿里云部署了两台梯子服务器。
+- 折腾了`Docker`，在想如何更方便的部署代码到云服务器。
+- 写过个React应用，感觉虚拟DOM着实强大，组件抽离是门艺术。
+- 精通PS，为部门贡献出了无数身边面孔的表情包，且动静皆有。
+
+## 爱好、技能
+- 摄影，成片在朋友圈的点赞率约为80%。 （23333）
+- 吉他，年初初学，算刚入门，但已爱不释手，并且医好了我的鼠标手！
+- 电影，阅片无数，中日韩美港澳台。以前混过PT，现在都混不进去了，sad。
+- 会使用 Adobe 的各种软件，AE 视频特效、剪辑, AU 音频特效、剪辑，FLASH 动画。
+- 女，我不是个 Gay ！
+
 ## 社交
 - [微博](http://weibo.com/275727449)
 - [知乎](http://www.zhihu.com/people/cen-jin-chao)
+- [同性交友](https://github.com/jincdream/)
 - ~~Blog~~
