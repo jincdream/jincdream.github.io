@@ -63,4 +63,4 @@
 - [微博](http://weibo.com/275727449)
 - [知乎](http://www.zhihu.com/people/cen-jin-chao)
 - [同性交友](https://github.com/jincdream/)
-- ~~Blog~~
+- [Blog](https://github.com/jincdream/jincdream.github.io/issues)
