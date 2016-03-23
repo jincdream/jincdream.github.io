@@ -36,7 +36,7 @@
 - 上线的又一个[评论JS](http://js.3conline.com/js/common/modules/cmt.js) [聚乐淘](http://buy.pconline.com.cn/discount/549/)。
 - 独立编写`pc-sub` ，基于`FIS3`的自动化工具编写。
 - `pcat`工具的编写，基于`FIS-MINI`（我自己抽离的FIS3的核心）实现前端组件化、自动部署、性能优化等功能。
-- [评论弹幕](http://live.pconline.com.cn/661.html)
+- [不追尾的不同速度的评论弹幕](http://live.pconline.com.cn/661.html)
 - 等等
 
 ## 目前状况
