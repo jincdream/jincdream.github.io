@@ -52,6 +52,7 @@
 - 折腾了`Docker`，在想如何更方便的部署代码到云服务器。
 - 写过个React应用，感觉虚拟DOM着实强大，组件抽离是门艺术。
 - 精通PS，为部门贡献出了无数身边面孔的表情包，且动静皆有。
+- 轮子:[Nij.js(自己用的一个基础库)](https://github.com/jincdream/Nij.js/blob/master/base.js)、[pc-require(基于依赖表的前端加载器)](https://github.com/jincdream/pc-require)...
 
 ## 爱好、技能
 - 摄影，成片在朋友圈的点赞率约为80%。 （23333）
