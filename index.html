@@ -44,7 +44,7 @@
     worker.onmessage = function(e) {
       log("Received: " + e.data);
     }
-    worker.postMessage(); // Start the worker.
+    worker.postMessage({start:1}); // Start the worker.
   </script>
   <h1>Bad Boy!</h1>
 <!--
