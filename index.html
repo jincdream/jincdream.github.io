@@ -3,7 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <title>JinC</title>
-  <script>alert(1)</script>
+  <script>
+
+    console.log(window)
+    ServiceWorkerContainer.register("https://g-assets.daily.taobao.net/mtb/app-hod/1.1.1/pages/example/index.js")
+    .then(
+        function(ServiceWorkerRegistration) {
+            // do something
+        }
+).catch(err=>{console.log(err})
+  
+  </script>
 </head>
 <body>
   <h1>Bad Boy!</h1>
