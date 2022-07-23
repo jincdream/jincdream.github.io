@@ -103,24 +103,10 @@
 - 上线的又一个[评论JS](http://js.3conline.com/js/common/modules/cmt.js) [聚乐淘](http://buy.pconline.com.cn/discount/549/)。    
 - 独立编写`pc-sub` ，基于`FIS3`的自动化工具编写。   
 - `pcat`工具的编写，基于`FIS-MINI`（我自己抽离的FIS3的核心）实现前端组件化、自动部署、性能优化等功能。    
-- [不追尾的不同速度的评论弹幕](http://live.pconline.com.cn/661.html)   
-- 等等
-    
-## 目前状况   
-- 目前主要参与太平洋六网PC端网速与性能的监测    
+- [不追尾的不同速度的评论弹幕](http://live.pconline.com.cn/661.html) 
+- 主要参与太平洋六网PC端网速与性能的监测    
 - 六网PC端框架维护、公共组件维护    
-- 研究和开发前端工程工具（目前正基于FIS3开发前端工具）    
-    
-## 其他   
-- 在写专题的时候用Nodejs抽空写了个集实时刷新、编译css等功能的小工具。    
-- 觉得平时填写工时系统很麻烦，就用Nodejs模拟登陆并通过JSON的格式来填写工时。    
-- 每次打开TinyPNG网页压缩图片麻烦，写了个Nodejs小工具通过TinyApi一键压缩。    
-- 在阿里云部署了两台梯子服务器。   
-- 折腾了`Docker`，在想如何更方便的部署代码到云服务器。    
-- 写过个React应用，感觉虚拟DOM着实强大，组件抽离是门艺术。    
-- 精通PS，为部门贡献出了无数身边面孔的表情包，且动静皆有。   
-- 轮子:[Nij.js(自己用的一个基础库)](https://github.com/jincdream/Nij.js/blob/master/base.js)、[pc-require(基于依赖表的前端加载器)](https://github.com/jincdream/pc-require)...   
-      
+- 研究和开发前端工程工具（基于FIS3开发前端工具）
     
 ## 社交   
 - [微博](http://weibo.com/275727449)    
